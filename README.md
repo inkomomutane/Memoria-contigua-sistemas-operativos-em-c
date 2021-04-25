@@ -2,12 +2,12 @@
 
 ## Menu
 
-+---------------------------------------------------+
-+------------------ Comandos -----------------------+
++---------------------------------------------------+<br>
++------------------ Comandos -----------------------+<br>
 
-- 1. RQ Requisitar Memoria a um processo +
-- 2. RL Desalocar Processo +
-- 3. ST Status do Processo/Processos +
+- 1. RQ Requisitar Memoria a um processo +<br>
+- 2. RL Desalocar Processo +<br>
+- 3. ST Status do Processo/Processos +<br>
 - @. [opções] +
 - 1.  [id do processos] [Algoritmo] [tamanho]KB +
 - 2.  [id do processos] +
@@ -15,12 +15,12 @@
 - Ex: RL P1 +
 - Ex: ST P1 +
 - Ex: ST +
-  +---------------------------------------------------+
+  +---------------------------------------------------+<br>
 - 1.  Requisitar Processo +
 - 2.  Desalocar Processo +
 - 3.  Status +
 - 4.  Sair +
-      +---------------------------------------------------+
+      +---------------------------------------------------+<br>
 - Selecione uma das opcoes acima::> {1,2,3,or 4}.
 
 ## 1. Requisitar Processo
@@ -34,16 +34,16 @@
 
 - Selecione uma das opções acima::> 2
 - ID do processo::> RL --P2
-  dealocando o processo: P2
-  dealocando o processo: P2
-  dealocando o processo: P2
-  dealocando o processo: P2
-  dealocando o processo: P2
-  dealocando o processo: P2
-  dealocando o processo: P2
-  dealocando o processo: P2
-  dealocando o processo: P2
-  dealocando o processo: P2
+-  dealocando o processo: P2
+-  dealocando o processo: P2
+-  dealocando o processo: P2
+-  dealocando o processo: P2
+-  dealocando o processo: P2
+-  dealocando o processo: P2
+-  dealocando o processo: P2
+-  dealocando o processo: P2
+-  dealocando o processo: P2
+-  dealocando o processo: P2
 
 ## 3. Listar processos
 
