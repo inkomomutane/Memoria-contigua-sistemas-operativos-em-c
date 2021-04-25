@@ -2,11 +2,11 @@
 
 ## Menu
 
-+---------------------------------------------------+<br>
-+------------------ Comandos -----------------------+<br>
+- +---------------------------------------------------+<br>
+- +------------------ Comandos -----------------------+<br>
 
-- 1. RQ Requisitar Memoria a um processo +<br>
-- 2. RL Desalocar Processo +<br>
+- 1. RQ Requisitar Memoria a um processo              +<br>
+- 2. RL Desalocar Processo                            +<br>
 - 3. ST Status do Processo/Processos +<br>
 - @. [opções] +
 - 1.  [id do processos] [Algoritmo] [tamanho]KB +
@@ -14,13 +14,13 @@
 - Ex: RQ P1 B 12 +
 - Ex: RL P1 +
 - Ex: ST P1 +
-- Ex: ST +
-  +---------------------------------------------------+<br>
+- Ex: ST +<br>
+- +---------------------------------------------------+<br>
 - 1.  Requisitar Processo +
 - 2.  Desalocar Processo +
 - 3.  Status +
-- 4.  Sair +
-      +---------------------------------------------------+<br>
+- 4.  Sair +<br>
+- +---------------------------------------------------+<br>
 - Selecione uma das opcoes acima::> {1,2,3,or 4}.
 
 ## 1. Requisitar Processo
